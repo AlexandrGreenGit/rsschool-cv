@@ -1,22 +1,22 @@
-Александр Грин
+Alexandr Green
 
-Локация: Челябинск, Россия
-Почта: warriorm2@mail.ru
-Телефон: +45879965412
+Location: Chelyabinsk, Russia
+E-mail: warriorm2@mail.ru
+Tel: +45879965412
 GitHub: https://github.com/AlexandrGreenGit
 Discord: Alexandr Green#0952
 
-Я студент курса JS/FE Pre-School 2022Q4. Я рад возможности получать новые знания и развиваться в направлении веб-разработки.
+I am a student of JS/FE Pre-School 2022Q4. I am happy to have the opportunity to gain new knowledge and develop in the direction of web development.
 
-Навыки:
-Алгоритмы
-Паскаль
-Html
-Css
+Skills:
+Basic algorithms
+Pascal
+HTML
+CSS
 JavaScript
 GitHub
 
-Пример кода:
+Code example:
 
 const myFunc = (str) => {
   let i = 0;
@@ -29,16 +29,16 @@ const myFunc = (str) => {
 }
 console.log(myFunc('Test'));
 
-Образование:
+Education:
 
-Колледж Права и Экономики. Специальность Программное обеспечение вычислительной техники и автоматизированных систем.
+College of Law and Economics. Specialty Computer engineering and automated systems software.
 
-Курсы:
+Сourses:
 
 JS/FE Pre-School 2022Q4 (в процессе)
 https://code-basics.com/ - JavaScript, HTML, CSS, Java
 
-Языки:
+Languages:
 
-Английский A1
-Русский Native
+English A1
+Russian Native
